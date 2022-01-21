@@ -33,7 +33,7 @@ The api itself is divided in 5 main routes:
 
   This route takes care of both creating a todo by sending a request with POST and displaying all the ToDos owned by the currently logged user by sending a GET request
 
-- /todo/<id>/
+- /todo/<"id of the todo">/
 
   Parameters: name, details and status
 
